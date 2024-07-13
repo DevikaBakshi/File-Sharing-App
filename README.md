@@ -1,4 +1,4 @@
-__#File Sharing Application__
+#**File Sharing Application**
 This is a web application that allows users to upload files, generate a download link, and share the files using the generated link. Built with the MERN stack (MongoDB, Express.js, React, Node.js), this application ensures a smooth and secure file-sharing experience.
 
 __###Features__
