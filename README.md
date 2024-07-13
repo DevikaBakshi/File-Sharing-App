@@ -21,20 +21,7 @@ This is a web application that allows users to upload files, generate a download
 
 
 
-<h4>Home Page</h4>
-![1](https://github.com/user-attachments/assets/f0b45955-a1d1-47de-890b-b3d0d128229b)
-
-
-<h4>File Uploaded and Link Generated</h4>
-![2](https://github.com/user-attachments/assets/8063df1d-a221-4c16-a69a-abfd54582e34)
-
-
-
-<h4>File downloaded</h4>
-![3](https://github.com/user-attachments/assets/e16e15d2-b750-4992-988a-41a8890fcf27)
-
-
-
-<h4>File opened</h4>
-
-![5](https://github.com/user-attachments/assets/de2355fb-f482-4bfe-96b0-9f511229b7ab)
+![1](https://github.com/user-attachments/assets/72c7e7d7-511b-448f-9942-06bd423e6fcd)
+![2](https://github.com/user-attachments/assets/8164e566-4cd3-4d4c-b57b-77e77ba2e02d)
+![3](https://github.com/user-attachments/assets/7e11f558-bd3a-4bca-8936-2a5adc0759e9)
+![5](https://github.com/user-attachments/assets/a37e4b5b-8ab5-4265-9a96-e338e1ded570)
