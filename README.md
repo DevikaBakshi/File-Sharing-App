@@ -1,8 +1,8 @@
-<h1>__File Sharing Application__</h1>
+<h1>File Sharing Application</h1>
 <br>
 This is a web application that allows users to upload files, generate a download link, and share the files using the generated link. Built with the MERN stack (MongoDB, Express.js, React, Node.js), this application ensures a smooth and secure file-sharing experience.
 <br>
-<span style="font-size:0.5em;">__Features__</span>
+<h3>__Features__</h3>
 <br>
 <ul>
 <li>File Upload: Users can upload files of various formats and sizes.</li>
@@ -11,7 +11,7 @@ This is a web application that allows users to upload files, generate a download
 </ul>
 <br>
 
-<span style="font-size:100em;">__Technology Stack__</span>
+<h3>__Technology Stack__</h3>
 <br>
 <ul>
 <li>Frontend: React.js, React Router</li>
