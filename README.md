@@ -1,3 +1,21 @@
+__#File Sharing Application__
+This is a web application that allows users to upload files, generate a download link, and share the files using the generated link. Built with the MERN stack (MongoDB, Express.js, React, Node.js), this application ensures a smooth and secure file-sharing experience.
+
+__###Features__
+
+File Upload: Users can upload files of various formats and sizes.
+Link Generation: Automatically generates a unique link for each uploaded file.
+File Sharing: Users can share the generated link to allow others to download the files.
+
+__###Technology Stack__
+Frontend: React.js, React Router
+Backend: Node.js, Express.js
+Database: MongoDB
+
+
+
+
+
 
 ![1](https://github.com/user-attachments/assets/f3b8ca67-b912-47ba-bfd2-d159df8b7069)
 
