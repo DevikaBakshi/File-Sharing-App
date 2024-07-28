@@ -14,7 +14,7 @@ This is a web application that allows users to upload files, generate a download
 <h3>Technology Stack</h3>
 <br>
 <ul>
-<li>Frontend: React.js, React Router</li>
+<li>Frontend: React.js</li>
 <li>Backend: Node.js, Express.js</li>
 <li>Database: MongoDB</li>
 </ul>
